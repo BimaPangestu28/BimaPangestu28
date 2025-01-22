@@ -49,8 +49,8 @@ Senior Technology Engineer with a passion for Data Engineering, Web3, and AI dev
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="GitHub Streak" height="150">
+  <img src="https://github-readme-stats.vercel.app/api?username=bimapangestu28&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bimapangestu28&theme=tokyonight" alt="GitHub Streak" height="150">
 </div>
 
 ## 🎯 Current Focus
