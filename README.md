@@ -69,7 +69,7 @@ Senior Technology Engineer with a passion for Data Engineering, Web3, and AI dev
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blue&style=flat-square" alt="Profile views">
+  <img src="https://komarev.com/ghpvc/?username=bimapangestu28&color=blue&style=flat-square" alt="Profile views">
 </div>
 
 *"Innovation is the outcome of a habit, not a random act." – Sukant Ratnakar*
