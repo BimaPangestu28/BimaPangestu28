@@ -30,10 +30,10 @@ I started coding in junior high, dropped out of college to co-found GoGarmen (sc
 
 ## 💼 Experience Highlights
 
-### 🤖 **Lead Research Engineer** @ Greentic.ai (2025-Present)
+### 🤖 **Lead Research Engineer** @ Greentic.ai (2026-Present)
 Building a provider-neutral AI agent platform in Rust. Researching agentic worker architecture, the WASM Component Model, MCP/OAuth integration, intent routing, and pluggable billing infrastructure across AWS Marketplace, Stripe, and other commerce providers.
 
-### 🚀 **Head of Delivery** @ Insignia (2023-2025)
+### 🚀 **Head of Delivery** @ Insignia (2023-2026)
 Led delivery teams on AI and data projects using Azure Cloud Services. Built Databricks Medallion architectures for enterprise clients across retail, banking, and education.
 
 ### 📊 **Product Development Lead** @ HaiBolu (2021-2023)
