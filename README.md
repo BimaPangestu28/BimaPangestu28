@@ -5,7 +5,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-Catalyst_Labs-00D9FF?style=for-the-badge&logo=react&logoColor=white)](https://catalystlabs.id/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Bima_Pangestu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bima-p-a55283108/)
 [![Medium](https://img.shields.io/badge/Medium-@bimapangestu280-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@bimapangestu280)
-[![Email](https://img.shields.io/badge/Email-hello.bima28@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello.bima28@gmail.com)
+[![Email](https://img.shields.io/badge/Email-bima.pangestu@catalystlabs.id-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bima.pangestu@catalystlabs.id)
 
 **Lead Research Engineer @ Greentic.ai** | **Founder of Catalyst Labs**
 
@@ -117,7 +117,7 @@ Interested in agentic AI, Rust systems, multi-cloud architecture, or blockchain 
 - 🌐 **Portfolio**: [catalystlabs.id](https://catalystlabs.id)
 - 💼 **LinkedIn**: [Bima Pangestu](https://www.linkedin.com/in/bima-p-a55283108/)
 - ✍️ **Medium**: [@bimapangestu280](https://medium.com/@bimapangestu280)
-- 📧 **Email**: hello.bima28@gmail.com
+- 📧 **Email**: bima.pangestu@catalystlabs.id
 - 📍 **Location**: Indonesia
 
 ---
