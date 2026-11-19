@@ -7,9 +7,9 @@
 [![Medium](https://img.shields.io/badge/Medium-@bimapangestu280-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@bimapangestu280)
 [![Email](https://img.shields.io/badge/Email-bima.pangestu@catalystlabs.id-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bima.pangestu@catalystlabs.id)
 
-**Lead Research Engineer @ Greentic.ai** | **Founder of Catalyst Labs**
+**Senior Rust Engineer** | **Founder of Catalyst Labs** | **Open to remote roles**
 
-*Building the infrastructure for AI agents. Researching agentic systems, Rust, and multi-cloud at scale.*
+*Building [graphrt](https://github.com/BimaPangestu28/graphrt), a small Rust runtime to run your AI agent everywhere.*
 
 </div>
 
@@ -17,9 +17,43 @@
 
 ## 👋 About Me
 
-Lead Research Engineer at Greentic.ai, building a provider-neutral AI agent platform in Rust. My work spans agentic worker architecture, the WASM Component Model, MCP/OAuth integration, intent routing, and provider-neutral billing infrastructure. Outside Greentic, I run **Catalyst Labs**, my personal research lab exploring multi-cloud platforms (AWS, Azure, GCP), blockchain, and agentic AI systems.
+Senior Rust engineer building infrastructure for AI agents. Most recently I was Lead Research Engineer at Greentic.ai, where I worked on a provider-neutral AI agent platform in Rust, spanning agentic worker architecture, the WASM Component Model, MCP/OAuth integration, intent routing, and provider-neutral billing infrastructure. Today I run **Catalyst Labs**, my software studio and research lab exploring multi-cloud platforms (AWS, Azure, GCP), blockchain, and agentic AI systems, and I am open to remote roles.
 
 I started coding in junior high, dropped out of college to co-found GoGarmen (scaled to 1M+ units sold), and learned the hard way that **delivery matters as much as architecture**. These days I focus on building agentic systems that actually ship and scale. No heroics, just solid engineering and execution.
+
+---
+
+## 🚧 Now Building: graphrt
+
+<div align="center">
+
+### [graphrt](https://github.com/BimaPangestu28/graphrt)
+
+**Run your agent everywhere.**
+
+[![Repo](https://img.shields.io/badge/GitHub-graphrt-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BimaPangestu28/graphrt)
+[![Rust](https://img.shields.io/badge/Built_with-Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/BimaPangestu28/graphrt)
+[![License](https://img.shields.io/badge/License-Apache_2.0-00D9FF?style=for-the-badge)](https://github.com/BimaPangestu28/graphrt)
+
+</div>
+
+A small open source runtime for agentic AI workflows. Define a workflow once in a single YAML or JSON document, then run it as a binary, as a streaming HTTP service, inside Android and iOS apps, or embedded in a Rust program.
+
+- 🪶 **Tiny footprint**: about 3 MB core binary, about 12 MB with everything included
+- 🤖 **Agent node**: tool calling, MCP server support, and human approval of tool calls
+- ⏸️ **Pause and resume**: JSON snapshots, even in the middle of a loop
+- 🛡️ **Safe by default**: SSRF protection, sandboxed templates, and a code node with memory and time limits
+- 🧩 **Plugins**: write them in Python, TypeScript, Rust, or WebAssembly
+- 🔌 **Model providers**: OpenAI-compatible APIs, Anthropic, Google Gemini, and AWS Bedrock
+
+```bash
+cargo install --path crates/graphrt-cli
+graphrt run examples/hello.yaml --input name=Ada
+```
+
+⭐ If it looks useful, a star on the [repo](https://github.com/BimaPangestu28/graphrt) helps a lot. Issues and feedback are welcome.
+
+---
 
 ### 🎯 Philosophy
 - **Ship to Learn**: Perfect code means nothing if users never see it
@@ -30,8 +64,11 @@ I started coding in junior high, dropped out of college to co-found GoGarmen (sc
 
 ## 💼 Experience Highlights
 
-### 🤖 **Lead Research Engineer** @ Greentic.ai (2026-Present)
-Building a provider-neutral AI agent platform in Rust. Researching agentic worker architecture, the WASM Component Model, MCP/OAuth integration, intent routing, and pluggable billing infrastructure across AWS Marketplace, Stripe, and other commerce providers.
+### 🔬 **Founder** @ Catalyst Labs (Present)
+Software studio and research lab. Building production systems for international clients in Rust, agentic AI, blockchain, and data engineering.
+
+### 🤖 **Lead Research Engineer** @ Greentic.ai (2026)
+Built a provider-neutral AI agent platform in Rust. Researched agentic worker architecture, the WASM Component Model, MCP/OAuth integration, intent routing, and pluggable billing infrastructure across AWS Marketplace, Stripe, and other commerce providers.
 
 ### 🚀 **Head of Delivery** @ Insignia (2023-2026)
 Led delivery teams on AI and data projects using Azure Cloud Services. Built Databricks Medallion architectures for enterprise clients across retail, banking, and education.
@@ -106,13 +143,15 @@ I write about delivery, process, and building systems that ship. Check out my ar
 
 ## 🚀 Featured Projects
 
+- 🤖 **[graphrt](https://github.com/BimaPangestu28/graphrt)**: a small Rust runtime for agentic AI workflows that runs on servers, desktops, and mobile (Apache-2.0)
+
 Visit [catalystlabs.id](https://catalystlabs.id) to see my full portfolio of production projects using Rust, agentic AI, multi-cloud platforms, blockchain, and data engineering.
 
 ---
 
 ## 📫 Let's Connect
 
-Interested in agentic AI, Rust systems, multi-cloud architecture, or blockchain research? Let's talk.
+Open to remote roles and contract work in agentic AI, Rust systems, multi-cloud architecture, or blockchain. Let's talk.
 
 - 🌐 **Portfolio**: [catalystlabs.id](https://catalystlabs.id)
 - 💼 **LinkedIn**: [Bima Pangestu](https://www.linkedin.com/in/bima-p-a55283108/)
@@ -126,7 +165,7 @@ Interested in agentic AI, Rust systems, multi-cloud architecture, or blockchain 
 
 ### ⚡ Quick Stats
 
-**8+ Years Experience** • **30K+ Daily Transactions** • **5+ Teams Led** • **Rust & Agentic AI**
+**9+ Years Experience** • **30K+ Daily Transactions** • **5+ Teams Led** • **Rust & Agentic AI**
 
 <img src="https://komarev.com/ghpvc/?username=bimapangestu28&style=flat-square&color=00D9FF" alt="Profile views">
 
